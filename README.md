@@ -6,9 +6,9 @@
 
 ### <br/> Subscribe : No subscribe Topic
 
-### <br/> Publish 1 : </cmd_vel> , command of linear velocity and angluar velocity ( coordinate is Z is up(sky not ground) and X is forward of car)
+### <br/> Publish 1 : /cmd_vel , command of linear velocity and angluar velocity ( coordinate is Z is up(sky not ground) and X is forward of car)
 
-### <br/> Publish 2 : </camera> , Image data using for Perecption, in this code there is no perception term, you can add other node for perception
+### <br/> Publish 2 : /camera , Image data using for Perecption, in this code there is no perception term, you can add other node for perception
 
 
 ```c
