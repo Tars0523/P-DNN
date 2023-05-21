@@ -1,6 +1,6 @@
 # P-DNN
 
-## <br/>Tracking 1 person (Id 0), Using DNN(Darkent). Bounding Box height and Bounding Box centroid is using as P-control.
+<br/>Tracking 1 person (Id 0), Using DNN(Darkent). Bounding Box height and Bounding Box centroid is using as P-control.
 
 ### <br/> Input : Image from computer camera(VideoCaputre(0)) or USB Camera... extra
 
