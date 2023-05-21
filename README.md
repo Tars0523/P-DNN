@@ -10,7 +10,7 @@
 
 #### <br/> Publish 2 : /camera , Image data using for Perecption, in this code there is no perception term, you can add other node for perception
 
-
+#### <br/> Works fine with CPU too
 ```c
 Ubuntu 20.04
 ROS Noetic
